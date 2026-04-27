@@ -2,7 +2,7 @@ from presidio_analyzer import AnalyzerEngine, PatternRecognizer, Pattern
 from presidio_analyzer.nlp_engine import NlpEngineProvider
 from presidio_anonymizer import AnonymizerEngine
 
-print("🚀 3억 달러 AI Privacy SDK 가동 시작...")
+print("🚀 AI Privacy SDK 가동 시작...")
 
 # 1. 다국어 AI 뇌 세팅
 configuration = {
