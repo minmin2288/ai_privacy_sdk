@@ -7,6 +7,8 @@
 
 PII Shield is a next-generation context-aware NLP engine that detects and masks Personally Identifiable Information (PII) such as National IDs, Credit Cards, and Phone Numbers in **0.008 seconds**.
 
+Don't just read the code. Experience the 0.008s speed right now: [https://pii-shield-demo.vercel.app](https://pii-shield-demo.vercel.app)
+
 ## ⚡ Core Features (Open Source Version)
 - **Extreme Speed:** Multi-core optimized to process thousands of texts instantly.
 - **Context-Aware AI:** Does not rely on simple regex. It understands Korean context (e.g., distinguishing an ID number from a currency amount) to achieve a **0.08% False Positive rate**.
